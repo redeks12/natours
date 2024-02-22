@@ -24,11 +24,11 @@ To get started with Nexus on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-redeks12/natours.git
+   git clone https://github.com/redeks12/natours.git
    ```
 
    ```bash
-   cd nexus
+   cd natours
    ```
 
 2. Open the index.html file in your preferred web browser.
